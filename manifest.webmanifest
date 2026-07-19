@@ -1,12 +1,11 @@
 {
-  "name": "Mojobet Güncel Giriş Adresi",
-  "short_name": "Mojobet Giriş",
-  "description": "Güncel giriş, oyunlar ve ödeme yöntemleri hakkında bilgilendirme sayfası.",
+  "name": "Mojobet Güncel Giriş Rehberi",
+  "short_name": "Mojobet Güncel",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#070707",
-  "theme_color": "#0a0a0a",
+  "theme_color": "#080808",
   "icons": [
     {
       "src": "https://marsiptv.xyz/mojobet-logo.png",
